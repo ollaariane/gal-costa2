@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #ff0000;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #ff0000;
 }
 
 body {
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #ff0000;
     font-weight: 600;
 }
 
@@ -44,9 +44,9 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 0;
+    right: 10;
     top: 18rem;
-    width: 20rem;
+    width: 25rem;
     height: auto;
 }
 
