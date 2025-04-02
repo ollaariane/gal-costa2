@@ -31,7 +31,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    {background-image: url('img2/_.jpeg');
+    background-image: url('img2/_.jpeg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -104,7 +104,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #ec665a;
+    background-color: #d63f31;
 
 }
 
@@ -113,8 +113,8 @@ h2 {
     background-size: 180px 180px;
 }
 
-#contato 
-    {background-image: url('img2/_.jpeg');
+#contato  {
+        background-image: url('img2/_.jpeg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -133,7 +133,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #ef0000;
     border: none;
     font-weight: bold;
 }
