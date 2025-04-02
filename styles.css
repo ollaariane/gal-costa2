@@ -31,7 +31,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img2/Gal\ Costa\ -\ Fa\ Tal\ Gal\ a\ Todo\ Vapor\ \ \(Reedição\ 2010\).jpeg;')
+    background-image: url('img2/_.jpeg')
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -114,7 +114,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img2/_.jpeg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
